@@ -1,6 +1,6 @@
 **About me:**
 
-Hello, I'm Eldio, an aspiring brazilian data analyst.
+Hello, I'm Eldio.
 
 🎓 I'm undergraduating in Analysis and System Development for Uninabuco University.
 
